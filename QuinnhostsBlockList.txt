@@ -37,6 +37,9 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 ck.getcookiestxt.com
 # 0.0.0.0 outbrain.com.edgekey.net
 
+# [Aduld Social]
+0.0.0.0 tumblr.com
+
 
 # [effiliation.com]
 # 0.0.0.0 mastertag.effiliation.com
@@ -51,5 +54,6 @@ ff02::3 ip6-allhosts
 # 'hosts' file format) are appended to the unified hosts file during the
 # update process. For example, uncomment the following line to block
 # 'example.com':
+
 
 # 0.0.0.0 example.com
