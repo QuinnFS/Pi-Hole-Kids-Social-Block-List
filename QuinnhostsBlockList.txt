@@ -1,0 +1,55 @@
+# Title: Quinn/hosts
+#
+#
+# Date: 03 January 2026 02:33:51 (UTC)
+# Number of unique domains: 81,272
+#
+# Fetch the latest version of this file: 
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start Quinn
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+# 0.0.0.0 ad-assets.futurecdn.net
+# 0.0.0.0 ck.getcookiestxt.com
+# 0.0.0.0 outbrain.com.edgekey.net
+
+
+# [effiliation.com]
+# 0.0.0.0 mastertag.effiliation.com
+# 0.0.0.0 track.effiliation.com
+
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
