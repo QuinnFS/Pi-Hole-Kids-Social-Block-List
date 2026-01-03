@@ -36,10 +36,12 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 ad-assets.futurecdn.net
 # 0.0.0.0 ck.getcookiestxt.com
 # 0.0.0.0 outbrain.com.edgekey.net
-0.0.0.0. youtube.com
 
-# [Aduld Social]
-0.0.0.0 tumblr.com
+# [Social Media]
+0.0.0.0. www.youtube.com
+
+# [Adult Social]
+0.0.0.0 www.tumblr.com
 
 
 # [effiliation.com]
@@ -58,5 +60,6 @@ ff02::3 ip6-allhosts
 
 
 # 0.0.0.0 example.com
+
 
 
