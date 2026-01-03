@@ -30,8 +30,8 @@ ff02::3 ip6-allhosts
 # Start Quinn
 
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
+# Title: Hosts contributed by Quinn
+# http://#######.com
 
 # 0.0.0.0 ad-assets.futurecdn.net
 # 0.0.0.0 ck.getcookiestxt.com
@@ -58,4 +58,5 @@ ff02::3 ip6-allhosts
 
 
 # 0.0.0.0 example.com
+
 
