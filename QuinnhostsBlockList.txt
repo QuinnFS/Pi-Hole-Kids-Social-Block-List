@@ -38,7 +38,7 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 outbrain.com.edgekey.net
 
 # [Social Media]
-0.0.0.0. youtube.com
+0.0.0.0. www.youtube.com
 
 # [Adult Social]
 #  0.0.0.0 tumblr.com
@@ -61,6 +61,7 @@ ff02::3 ip6-allhosts
 
 
 # 0.0.0.0 example.com
+
 
 
 
